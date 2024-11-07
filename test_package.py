@@ -10,7 +10,6 @@ from datetime import datetime, timedelta
 from stonesoup.types.groundtruth import GroundTruthPath, GroundTruthState
 from stonesoup.models.transition.linear import CombinedLinearGaussianTransitionModel, \
                                                ConstantVelocity
-                            
                                               
                                                 
 
